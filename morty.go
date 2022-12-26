@@ -27,8 +27,8 @@ import (
 	"golang.org/x/net/html/charset"
 	"golang.org/x/text/encoding"
 
-	"github.com/asciimoo/morty/config"
-	"github.com/asciimoo/morty/contenttype"
+	"github.com/A-dead-pixel/morty/config"
+	"github.com/A-dead-pixel/morty/contenttype"
 )
 
 const (
