@@ -1,4 +1,4 @@
-module github.com/asciimoo/morty
+module github.com/A-dead-pixel/morty
 
 go 1.14
 
